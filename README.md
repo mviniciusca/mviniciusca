@@ -1,6 +1,6 @@
 <p align="center">Fullstack Developer based in Rio de Janeiro, Brazil</p>
 
-- 🐘 PHP Developer with 2+ years XP
+- 🐘 PHP Developer with 5+ years XP
 - 🐍 Python Developer certificated by [Embraer](https://www.embraer.com/br/pt/)
 - 🔭 Laravel, IA, Python, PHP, Tailwind, Livewire
 - 📝 Articles on [Medium](https://medium.com/@marcoscoelhodev)    
